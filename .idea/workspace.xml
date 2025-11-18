@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d94842e-bf12-4ff5-b5b2-9cc53f4b4843" name="Changes" comment="added 4 uversioned file">
-      <change afterPath="$PROJECT_DIR$/img/Hero_section.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/avery-klein-JaXs8Tk5Iww-unsplash 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dawid-liberadzki-vPFbVB7DPZI-unsplash 1 (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon_message.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/jared-weiss-P3cB0ynqYBw-unsplash 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/keghan-crossland-ZZxmc66SjfM-unsplash 1 (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/keghan-crossland-ZZxmc66SjfM-unsplash 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sinitta-leunen-YaReHIzNdRw-unsplash 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/spurwing-agency-r6LceZ3ckpM-unsplash 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/stil-P1jQzyvqfns-unsplash 1 (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/stil-P1jQzyvqfns-unsplash 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/stil-_mvSe9q8_n4-unsplash 1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +68,7 @@
       <updated>1762852292845</updated>
       <workItem from="1762852294333" duration="7303000" />
       <workItem from="1763454331455" duration="715000" />
-      <workItem from="1763461614656" duration="7413000" />
+      <workItem from="1763461614656" duration="8067000" />
     </task>
     <task id="LOCAL-00001" summary="git commit -m &quot;1st commit&quot;">
       <option name="closed" value="true" />
