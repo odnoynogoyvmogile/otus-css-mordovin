@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d94842e-bf12-4ff5-b5b2-9cc53f4b4843" name="Changes" comment="added 4 uversioned file">
+      <change afterPath="$PROJECT_DIR$/img/Hero_section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/avery-klein-JaXs8Tk5Iww-unsplash 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dawid-liberadzki-vPFbVB7DPZI-unsplash 1 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon_message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jared-weiss-P3cB0ynqYBw-unsplash 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/keghan-crossland-ZZxmc66SjfM-unsplash 1 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/keghan-crossland-ZZxmc66SjfM-unsplash 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sinitta-leunen-YaReHIzNdRw-unsplash 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/spurwing-agency-r6LceZ3ckpM-unsplash 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/stil-P1jQzyvqfns-unsplash 1 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/stil-P1jQzyvqfns-unsplash 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/stil-_mvSe9q8_n4-unsplash 1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,24 +28,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "odnoynogoyvmogile"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;odnoynogoyvmogile&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/odnoynogoyvmogile/otus-css-mordovin.git",
-    "accountId": "c5664c77-cdcb-41a9-ae28-bcf229f5fc30"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/odnoynogoyvmogile/otus-css-mordovin.git&quot;,
+    &quot;accountId&quot;: &quot;c5664c77-cdcb-41a9-ae28-bcf229f5fc30&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="35KIN26oQpzDa7AeY6DGQ1oonK8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "semantics",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,7 +79,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762852292845</updated>
-      <workItem from="1762852294333" duration="4011000" />
+      <workItem from="1762852294333" duration="7303000" />
+      <workItem from="1763454331455" duration="715000" />
+      <workItem from="1763461614656" duration="7413000" />
     </task>
     <task id="LOCAL-00001" summary="git commit -m &quot;1st commit&quot;">
       <option name="closed" value="true" />
