@@ -1,0 +1,7 @@
+@import './fonts.css';
+h1 {
+    font-family: "Roboto Bold";
+}
+h2 {
+    font-family: Playfair Display;
+}
