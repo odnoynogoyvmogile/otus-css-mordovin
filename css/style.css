@@ -1,11 +1,13 @@
 @import './fonts.css'; /*импорт подключил папку со шрифтами*/
-body {
+body { /*обнуление стилей*/
     padding: 0;
     margin: 0;
     border: none;
     font-family: 'roboto', sans-serif;
+    font-size: 0;
+    box-sizing: border-box;
 }
-h1 {
+h1 { /*используется на странице единожды*/
     font-family: "Playfair Display", serif;
     font-weight: 600;
     font-size: 86px;
@@ -82,5 +84,8 @@ h1 {
 .credits {
     font-weight: 400;
     font-size: 16px;
+}
+.img_modstudio {
+    width: 100%;
 }
 

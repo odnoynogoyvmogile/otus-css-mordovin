@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d94842e-bf12-4ff5-b5b2-9cc53f4b4843" name="Changes" comment="added 4 uversioned file">
-      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    <list default="true" id="3d94842e-bf12-4ff5-b5b2-9cc53f4b4843" name="Changes" comment="added typography">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="typography" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -34,6 +37,16 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="11" />
+      <option value="12" />
+      <option value="13" />
+      <option value="14" />
+      <option value="15" />
+      <option value="16" />
+    </hideBySeverity>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -46,7 +59,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;typography&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;classes&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -76,7 +89,18 @@
       <workItem from="1763548002933" duration="2685000" />
       <workItem from="1763714951288" duration="5305000" />
       <workItem from="1763726019771" duration="1662000" />
-      <workItem from="1763977591959" duration="4853000" />
+      <workItem from="1763977591959" duration="4954000" />
+      <workItem from="1764233703710" duration="951000" />
+      <workItem from="1764240038724" duration="1731000" />
+      <workItem from="1765187402059" duration="2755000" />
+      <workItem from="1765437914418" duration="8233000" />
+      <workItem from="1765452844759" duration="2616000" />
+      <workItem from="1765459425707" duration="854000" />
+      <workItem from="1765526414559" duration="1182000" />
+      <workItem from="1765529930274" duration="2304000" />
+      <workItem from="1765797930231" duration="394000" />
+      <workItem from="1765800676581" duration="2178000" />
+      <workItem from="1765871719431" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="git commit -m &quot;1st commit&quot;">
       <option name="closed" value="true" />
@@ -118,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763727621856</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added typography">
+      <option name="closed" value="true" />
+      <created>1765448983678</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765448983678</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added typography">
+      <option name="closed" value="true" />
+      <created>1765452903063</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765452903063</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +188,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit -m &quot;1st commit&quot;" />
     <MESSAGE value="added 4 uversioned file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 4 uversioned file" />
+    <MESSAGE value="added typography" />
+    <option name="LAST_COMMIT_MESSAGE" value="added typography" />
   </component>
 </project>
